@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Optimus prime dies in avengers end game
 Use the left arrow to go back!
